@@ -1,0 +1,14 @@
+{
+  "name": "spotify-claude-plugin",
+  "version": "1.0.0",
+  "description": "Claude Code plugin to control Spotify playback on device",
+  "license": "MIT",
+  "author": "Matt Currier",
+  "type": "module",
+  "scripts": {
+    "setup": "node lib/setup.js"
+  },
+  "dependencies": {
+    "open": "^10.1.0"
+  }
+}

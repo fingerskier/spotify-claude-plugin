@@ -1,0 +1,11 @@
+{
+  "name": "spotify",
+  "version": "2026.3.20",
+  "description": "Control Spotify playback on your devices — play, pause, skip, search, queue, volume, and more.",
+  "author": {
+    "name": "Fingerskier"
+  },
+  "homepage": "https://github.com/fingerskier/spotify-claude-plugin",
+  "license": "MIT",
+  "keywords": ["spotify", "music", "playback", "audio"]
+}
